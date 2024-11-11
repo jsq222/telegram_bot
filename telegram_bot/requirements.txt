@@ -1,4 +1,0 @@
-aiogram
-apscheduler
-flask
-sqlite3
