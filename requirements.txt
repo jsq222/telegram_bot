@@ -1,4 +1,3 @@
 aiogram
-apscheduler
 flask
-sqlite3
+apscheduler
