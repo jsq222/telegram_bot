@@ -5,8 +5,8 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from datetime import datetime, timedelta
 from database import db
 
-TOKEN = "ВАШ_ТОКЕН_БОТА"  # Укажите токен бота
-PRIVATE_CHANNEL = "@ВАШ_КАНАЛ"  # Укажите ссылку на ваш закрытый канал
+TOKEN = "7916564478:AAG8rJNZTwuavj06h_xy-yBi7rvKY0q-FzA"  # Укажите токен бота
+PRIVATE_CHANNEL = "https://t.me/+9D7ive9lDrU1Y2Qy"  # Укажите ссылку на ваш закрытый канал
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
